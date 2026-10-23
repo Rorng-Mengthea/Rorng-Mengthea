@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rorng-Mengthea
-- 👀 I’m interested in Microcontroller
+- 👀 I’m interested in Telecommunication and Network
 - 🌱 I’m currently learning at ITC!
 - 💞️ So far, so good!
 - 📫 Normal person!
